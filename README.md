@@ -20,6 +20,10 @@ on contacts navigation, u can get candidates contacts and detail,you can create 
 <img width="1130" height="683" alt="image" src="https://github.com/user-attachments/assets/5356db1c-41a8-4cb3-9f60-0ace4ad4acc6" />
 on application navigation, you can see application details such as application ID,candidate name,interview start time,end time,offer made?
 <img width="1133" height="650" alt="image" src="https://github.com/user-attachments/assets/25ab6233-c8aa-4b9c-9ff5-2a3e857c2415" />
+<img width="319" height="236" alt="image" src="https://github.com/user-attachments/assets/a46ef021-0482-436d-b41f-f3ed58481275" />
+<img width="482" height="283" alt="image" src="https://github.com/user-attachments/assets/019c6a94-6882-438e-8050-ccadbd981640" />
+
+
 
 
 
